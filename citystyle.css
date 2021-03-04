@@ -1,0 +1,138 @@
+/* li a:active
+{
+    background-color: black;
+    color: whitesmoke;
+} */
+
+ li a:active
+{
+    background-color: black !important;
+    color: whitesmoke !important;
+} 
+
+li a:hover
+{
+    background-color: rgb(18, 6, 250);
+    color: whitesmoke;
+} 
+
+/* .navbar-nav > .active > a {
+    color: aqua;
+    background-color: chartreuse;    
+  } */
+
+button .btn .btn-dark{
+    float: right;
+}
+
+/* .menulist{
+    background-color: black !important;
+    color: whitesmoke !important;
+} */
+
+.row {
+width: 100%;
+margin: 0;
+}
+
+.no-padding {
+    padding: 0 !important;
+}
+
+/* .footer {
+    position: absolute;
+    bottom: 0;
+    width: 100%;
+    height: 60px;
+    line-height: 60px;
+    background-color: black;
+
+    clear: both;
+    position: relative;
+    height: 200px;
+    margin-top: -200px;
+    background-color: black;
+} */
+
+/* .myfooter {
+     clear: both;
+    position: relative;
+    height: 200px;
+    margin-top: -200px;
+    background-color: black;
+  } */
+
+  html {
+    min-height: 100%;
+  }
+
+  #page-container {
+    position: relative;
+    min-height: 100vh;
+  }
+  
+  #content-wrap {
+    padding-bottom: 2.5rem;    
+  }
+
+  #myfooter {
+    position: fixed;
+    bottom: 0;
+    width: 100%;
+    height: 2.5rem;  
+    color: white;          
+  }
+
+  #footerheader {
+    margin-left: 40%;
+    margin-top: 1%;
+  }
+
+   .leftpanel {
+    overflow: hidden;
+  } 
+
+  .leftpanediv{
+    position: fixed;
+  }
+  /* .centerpanel{
+    padding-top: 20%;
+  } */
+
+  /*.rightpanel {
+    position: fixed;
+    overflow: hidden;
+    /* height: 800px; 
+  } */
+
+  #menunav{
+    height: 3rem !important;
+  }
+
+  #topcontainer{
+      padding-top: 3rem !important;
+  }
+
+  img {
+      float: left !important;
+      margin-right: 1em;
+    }
+  
+  .imgtext {
+      margin-left: 2em;
+  }  
+
+  .ads {
+      display: block;
+      width: 90%;
+      height: 10%;
+  }
+
+  #trav2 {
+      margin-top: 20%;
+  }
+
+
+  /* body {
+    min-height: 100vh;
+  } */
